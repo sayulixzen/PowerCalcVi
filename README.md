@@ -7,15 +7,6 @@ impacto financeiro na conta de luz mensal.
 Este projeto faz parte do portfólio de estudos em **Desenvolvimento Mobile**,
 utilizando componentes nativos do Android Studio.
 ---
-## Interface do Aplicativo
-*Aqui você deve inserir os prints do seu app funcionando*
-&lt;div align=&quot;center&quot;&gt;
-&lt;img src=&quot;https://via.placeholder.com/200x400.png?text=Tela+Principal&quot;
-width=&quot;200&quot; alt=&quot;Tela Principal&quot;&gt;
-&lt;img src=&quot;https://via.placeholder.com/200x400.png?text=Resultado+Calculado&quot;
-width=&quot;200&quot; alt=&quot;Resultado&quot;&gt;
-&lt;/div&gt;
----
 ## Regras de Negócio e Fórmulas
 O aplicativo realiza o processamento dos dados seguindo as fórmulas matemáticas
 abaixo:
